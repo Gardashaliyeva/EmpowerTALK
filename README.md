@@ -52,14 +52,14 @@ Open a new terminal, navigate to the server folder and run:
 
 Test users' credentials:
 
-User 1:
+- User 1:
 
-Username: Ali
+--Username: Ali
 
-Password: 12345678aA@
+--Password: 12345678aA@
 
-User 2:
+- User 2:
 
-Username: Aytaj
+--Username: Aytaj
 
-Password: Aytac@123
+--Password: Aytac@123
