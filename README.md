@@ -51,10 +51,15 @@ Open a new terminal, navigate to the server folder and run:
 ## Now you can enjoy the project!
 
 Test users' credentials:
+
 User 1:
+
 Username: Ali
+
 Password: 12345678aA@
 
 User 2:
+
 Username: Aytaj
+
 Password: Aytac@123
