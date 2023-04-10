@@ -49,3 +49,15 @@ Open a new terminal, navigate to the server folder and run:
   npm run dev
 ```
 ## Now you can enjoy the project!
+
+Test user credentials:
+User 1:
+Username: Ali
+Password: 12345678aA@
+
+User 2:
+Username: Aytaj
+Password: Aytac@123
+
+User 3:
+Username: 
